@@ -119,7 +119,7 @@ Ventilador ON
 🔗 Simulación:
 
 ```text
-https://wokwi.com/projects/TU_PROJECT_ID
+https://wokwi.com/projects/467208611667647489
 ```
 
 ---
@@ -248,8 +248,6 @@ Temperatura: 38.9 °C
 │
 ├── docs/
 │   └── README.md
-│
-└── README.md
 ```
 
 ---
