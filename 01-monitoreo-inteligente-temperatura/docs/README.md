@@ -92,7 +92,7 @@ El sistema permite:
 🔗 Simulación:
 
 ```text
-https://wokwi.com/projects/467207249878760449s
+https://wokwi.com/projects/467207249878760449
 ```
 
 ---
